@@ -15,7 +15,11 @@ HCI Lernfragen
 
 ##### 7. Direkte Manipulation ist für Gelegenheitsbenutzer besonders geeignet, weil sie das KZG entlastet.
 
+JA. Da der Benutzer gleich sehen kann was bei der Interaktion passiert, da sie sie das prozedurale Gedächtnis anspricht und somit leichter erlernbar ist.
+
 ##### 8. Schrift und feine Konturen sollten möglichst mehrfarbig dargestellt werden, um möglichst viel Sehzellen anzusprechen.
+
+NEIN. Der Mensch kann Helligkeitsunterschiede besser wahrnehmen, als Farbunterschiede. Daher lieber mit Helligkeit arbeiten.
 
 ##### 9. Blendung entsteht durch Überforderung der Adaption des Auges.
 
@@ -31,6 +35,8 @@ HCI Lernfragen
 
 ##### 15. Personae sind künstliche Benutzer, die jeweils eine Benutzerklasse repräsentieren.
 
+RICHTIG. Es sind fiktive Benutzer, aber sie charakterisieren die erhobenen Daten einzelner Personen.
+
 ##### 16. Benutzerprofile sind allgemeine, anwendungsübergreifend verwendbare Charakterisierungen von Computernutzern.
 
 ##### 17. Gestaltgesetze beschreiben die bewusste Erkennung von Formen und Strukturen aufgrund ihrer räumlichen Anordnung.
@@ -43,13 +49,23 @@ HCI Lernfragen
 
 ##### 21. Das sensorische Gedächtnis kann nur max. 7 +/-2 Chunks aufnehmen.
 
+NEIN. Das sensorische Gedächtnis kann 12 Chunks aufnehmen.
+
 ##### 22. Das LZG ist störungsanfällig und verliert bei Überlastung Informationen.
+
+NEIN. Das gilt für das KZG.
 
 ##### 23. Im LZG gespeicherte Information bleibt lebenslang erhalten.
 
+
+
 ##### 24. Unter Kognition verstehen wir die bewusste Informationsverarbeitung durch den Menschen.
 
+NEIN. Die Informationsverarbeitung ist nicht immer bewusst.
+
 ##### 25. Kognition ist die Voraussetzung für die menschliche Informationsverarbeitung.
+
+NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 26. Unter Wahrnehmung verstehen wir die unbewusste Vorverarbeitung und Filterung sensorischer Reize.
 
@@ -160,3 +176,19 @@ HCI Lernfragen
 ##### 79. Ein gutes Hilfesystem ist eine unerlässliche Bedingung für selbstbeschreibungfähige Systeme.
 
 ##### 80. Körperbehinderungen verursachen erhöhte Transformationsdistanzen in den unteren Ebenen des 6- Ebenen-Modells.
+
+#####______________________________________________________
+##### 81. Hintergrundbilder sollten grundsätzlich ausblendbar sein.
+Richtig.
+
+##### 82. Je genauer ein GUI-Prototyp ausgeführt ist, desto besser kann man ihn in der Evaluation einsetzen
+Falsch
+
+##### 83. Bilder als Navigationssymbole stellen eine potentielle Barriere für blinde Nutzer dar.
+JA. Für blinde Nutzer wäre ein Audiokommentar sinnvoll.
+
+##### 84. Die meisten Handlungsprozesse sind flexible Kombinationen aus automatisierter und bewusst gesteuerter Interaktion, sie sind daher wenig fehleranfällig.
+NEIN. Jede Handlung kann fehleranfällig sein
+
+##### 85. Werden Symbole innerhalb der Anwendung konsistent zur Informationscodierung benutzt, spielt ihre Bedeutung ausserhalb der Anwendung keine Rolle.
+NEIN. Auch Symbole können außerhalb ihrer Anwendung eine Rolle spielen, wie z.B. ein Warnsymbol.

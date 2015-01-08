@@ -3,7 +3,15 @@ HCI Lernfragen
 
 ##### 1. Unter dem Nutzungserlebnis versteht man die rein subjektive Wahrnehmung der Interaktion durch den Benutzer.
 
+*In ihren Folien findet sich folgendes dazu:*
+
+*Nutzungserlebnis – Einbeziehung von Human Factors - Berücksichtigung weiterer Attribute: motivierend, ästhetisch, unterhaltsam, kreativ, erfreulich, überraschend, hilfreich, unaufdringlich, .... Ziel ist eine angenehme, effektive und effiziente Interaktion*
+
+*Ich gehe also stark von **JA** aus*
+
 ##### 2. Mentale Modelle dienen dazu, erhöhten Interaktionsaufwand zu loaklisieren.
+
+**Nein**, Sie bilden zwar die Grundlage der Kognition und Interaktion, aber sie dienen nicht der Lokalisierung erhöhten Nutzeraufwandes. Mentale Modelle "entstehen" in den Köpfen der Menschen und sind deren strukturierte Vorstellungen von einem Gebilde und dessen Verhalten.
 
 ##### 3. Das 6-Ebenen-Modell dient zu Identifizierung erhöhnten interaktionsaufwands.
 
@@ -49,15 +57,13 @@ RICHTIG. Es sind fiktive Benutzer, aber sie charakterisieren die erhobenen Daten
 
 ##### 21. Das sensorische Gedächtnis kann nur max. 7 +/-2 Chunks aufnehmen.
 
-NEIN. Das sensorische Gedächtnis kann 12 Chunks aufnehmen.
+NEIN. Das sensorische Gedächtnis kann 12 Chunks aufnehmen. Das KZG nimmt 7+/-2 Chunks auf.
 
 ##### 22. Das LZG ist störungsanfällig und verliert bei Überlastung Informationen.
 
 NEIN. Das gilt für das KZG.
 
 ##### 23. Im LZG gespeicherte Information bleibt lebenslang erhalten.
-
-
 
 ##### 24. Unter Kognition verstehen wir die bewusste Informationsverarbeitung durch den Menschen.
 
@@ -95,6 +101,8 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 39. Sicherheitsrelevante Systeme dürfen nicht individualisierbar sein.
 
+**JA.** z.B. die Benutzerschnittstelle in einem Kernkraftwerk muss permanent von allen geschulten Mitarbeitern bedient werden können, und nicht nur vom entsprechenden Mitarbeiter der es seinen Bedürfnissen angepasst hat.
+
 ##### 40. Lernförderlichkeit ist besonders für Gelegenheitsbenutzer wichtig.
 
 ##### 41. Lernförderlichkeit ist nur für ungeübte Benutzer von Interesse.
@@ -102,6 +110,8 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 ##### 42. Die Evaluation einer Benutzerschnittstelle sollte immer mit realen Benutzern durchgeführt werden.
 
 ##### 43. Feldstudien sind Labortests grundsätzlich vorzuziehen.
+
+**NEIN.** Sie erzeugen ein anderes Ergebnis als Labortests und sind aus diesem Grund zusätzlich erforderlich.
 
 ##### 44. Menschengerechte Bildschirmarbeit nach ISO 9241-Teil 2 kann durch ein einzelnes Anwendungsprogramm unterstützt, aber nicht gewährleistet werden.
 
@@ -145,6 +155,8 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 64. Transformationsdistanzen sind ein Maß für den Benutzungskomfort eines Systems.
 
+**JA.** Durch Transformationsdistanzen lässt sich ermitteln, wie gut / schlecht der Benutzer mit dem System klar kommt bzw. wie komfortabel es ist.
+
 ##### 65. Systeme, die für Gelegenheitsbenutzer konzipiert sind, sollten nicht individualisierbar sein.
 
 ##### 66. Der Zugriff auf alte Informationen im Langzeitgedächtnis wird mit der Zeit schwieriger, weil die Information linear durchsucht werden muss.
@@ -177,18 +189,45 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 80. Körperbehinderungen verursachen erhöhte Transformationsdistanzen in den unteren Ebenen des 6- Ebenen-Modells.
 
-#####______________________________________________________
 ##### 81. Hintergrundbilder sollten grundsätzlich ausblendbar sein.
+
 Richtig.
 
 ##### 82. Je genauer ein GUI-Prototyp ausgeführt ist, desto besser kann man ihn in der Evaluation einsetzen
+
 Falsch
 
 ##### 83. Bilder als Navigationssymbole stellen eine potentielle Barriere für blinde Nutzer dar.
-JA. Für blinde Nutzer wäre ein Audiokommentar sinnvoll.
+
+**JA.** Für blinde Nutzer wäre ein Audiokommentar sinnvoll.
 
 ##### 84. Die meisten Handlungsprozesse sind flexible Kombinationen aus automatisierter und bewusst gesteuerter Interaktion, sie sind daher wenig fehleranfällig.
-NEIN. Jede Handlung kann fehleranfällig sein
+
+**NEIN.** Jede Handlung kann fehleranfällig sein
 
 ##### 85. Werden Symbole innerhalb der Anwendung konsistent zur Informationscodierung benutzt, spielt ihre Bedeutung ausserhalb der Anwendung keine Rolle.
-NEIN. Auch Symbole können außerhalb ihrer Anwendung eine Rolle spielen, wie z.B. ein Warnsymbol.
+
+**NEIN.** Auch Symbole können außerhalb ihrer Anwendung eine Rolle spielen, wie z.B. ein Warnsymbol.
+
+Aus weiteren Altklausuren
+-------------------------
+
+##### Wahrnehmung ist die aufmerksamkeitsgefilterte Aufnahme sensorischer Reize.
+
+**JA.** Die Filterung entscheidet über die Speicherung im LZG oder KZG
+
+##### Gelegenheitsnutzer benötigen eine Entlastung des KZG, Routinebenutzer des LZG.
+
+**JA.** Gelegenheitsbenutzer benutzen das KZG häufig, deshalb sollte es entlastet werden, Routinebenutzer eine Entlastung des LZG. Gelegenheitsbenutzer benutzen ein System gelegentlich und beanspruchen so das KZG. Bei Routinebenutzern ist es so, dass Sie ein System oft benutzen und das LZG beanspruchen.
+
+*Ihre Anmerkung dazu: "Ihre Begründung setzt voraus, dass die LZG-Entlastung bei Gelegenheitsbenutzern bereits gegeben ist."*
+
+##### Usability-Tests im Labor sind Feldstudien grundsätzlich vorzuziehen
+
+**NEIN.** Sie ergeben ein anderes Ergebnis.
+
+*Ihre Anmerkung dazu: "zusätzlich erforderlich"*
+
+##### Der häufige Wechsel zwischen hellen und dunklen Bildschirmseiten fordert Adaptionsarbeit und schädigt dadurch auf die Dauer das Auge
+
+**NEIN.** Die Augen ermüden, werden aber nicht geschädigt.

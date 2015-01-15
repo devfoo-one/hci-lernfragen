@@ -49,6 +49,10 @@ RICHTIG. Es sind fiktive Benutzer, aber sie charakterisieren die erhobenen Daten
 
 ##### 17. Gestaltgesetze beschreiben die bewusste Erkennung von Formen und Strukturen aufgrund ihrer räumlichen Anordnung.
 
+**NEIN.** Gestaltgesetze sind Erklärungen der *unbewussten* Vorverarbeitung.
+
+*Nein kommt aus Klausur, Erklärung von Tom (nicht sicher)*
+
 ##### 18. Mithilfe von Gestaltgesetzen lässt sich das KZG entlasten.
 
 ##### 19. Affordanz reduziert das erforderliche Maß an Hilfetexten.
@@ -134,6 +138,8 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 ##### 53. Bei der augenfreundlichen Gestaltung von Dialogen muss man berücksichtigen, dass der Bildschirm auch als Lichtquelle wirkt.
 
 ##### 54. Der Weg ins Langzeitgedächtnis führt über das Kurzzeitgedächtnis, deshalb sollte dies viel beansprucht werden.
+
+**FALSCH.**
 
 ##### 55. Der Kontrast zwischen Rot und Grün ist besonders hoch und sollte bei der Bildschirmgestaltung informationstragend genutzt werden
 
@@ -231,3 +237,43 @@ Aus weiteren Altklausuren
 ##### Der häufige Wechsel zwischen hellen und dunklen Bildschirmseiten fordert Adaptionsarbeit und schädigt dadurch auf die Dauer das Auge
 
 **NEIN.** Die Augen ermüden, werden aber nicht geschädigt.
+
+##### Beim Informationsabruf aus dem LZG ist Wiedererkennen (Recognition) einfacher als Erinnern (Recall)
+
+**JA.** Wiedererkennen ist einfacher als erinnern, weil Assoziationen im LZG schneller abgerufen werden können. Je mehr Verknüpfungen desto leichter Recognition.
+
+##### Gestaltgesetze erklären, warum die Verwendung von Komplementärfarben in der Benutzerschnittstelle verwirrend wirkt.
+
+**FALSCH.**
+
+##### Sprachein- und ausgabe begründet keine eigene Interaktionsform, sondern nur eine Variante der deskriptiven Interaktion
+
+**RICHTIG.**
+
+##### Der Benutzer eines Mail-Client erlebt den Rechner als Assistenten
+
+**RICHTIG.**
+
+##### "Aufgabenangemessenheit" bezieht die Zufriedenheit des Benutzers ein, während "Brauchbarkeit" ein rein objektiver Maßstab ist.
+
+**RICHTIG.**
+
+##### Die Ethnographie hat gegenüber dem kognitiven Walkthrough den Vorteil, reproduzierbar zu sein.
+
+**FALSCH.**
+
+##### Reine Kommandosysteme sind nicht individualisierbar.
+
+**RICHTIG.**
+
+##### Das `D(S(A))` enthält die Metaphern des konzeptuellen Modells, die dem Benutzer die Bedienung des Systems erklären sollen
+
+**FALSCH.**
+
+##### Menüs entlasten das KZG, weil die Information per Recognition aus dem Gedächtnis abgerufen wird
+
+**FALSCH.**
+
+##### Körperbehinderungen, die sich auf die Sehfähigkeit der Handmotorik auswirken, erfordern spezielle konzeptuelle Modelle.
+
+**FALSCH.**

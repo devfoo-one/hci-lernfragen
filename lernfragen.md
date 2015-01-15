@@ -49,6 +49,10 @@ RICHTIG. Es sind fiktive Benutzer, aber sie charakterisieren die erhobenen Daten
 
 ##### 17. Gestaltgesetze beschreiben die bewusste Erkennung von Formen und Strukturen aufgrund ihrer räumlichen Anordnung.
 
+**NEIN.** Gestaltgesetze sind Erklärungen der *unbewussten* Vorverarbeitung.
+
+*Nein kommt aus Klausur, Erklärung von Tom (nicht sicher)*
+
 ##### 18. Mithilfe von Gestaltgesetzen lässt sich das KZG entlasten.
 
 ##### 19. Affordanz reduziert das erforderliche Maß an Hilfetexten.
@@ -231,3 +235,7 @@ Aus weiteren Altklausuren
 ##### Der häufige Wechsel zwischen hellen und dunklen Bildschirmseiten fordert Adaptionsarbeit und schädigt dadurch auf die Dauer das Auge
 
 **NEIN.** Die Augen ermüden, werden aber nicht geschädigt.
+
+##### Beim Informationsabruf aus dem LZG ist Wiedererkennen (Recognition) einfacher als Erinnern (Recall)
+
+**JA.** Wiedererkennen ist einfacher als erinnern, weil Assoziationen im LZG schneller abgerufen werden können. Je mehr Verknüpfungen desto leichter Recognition.

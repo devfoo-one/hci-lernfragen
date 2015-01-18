@@ -14,10 +14,17 @@ HCI Lernfragen
 **Nein**, Sie bilden zwar die Grundlage der Kognition und Interaktion, aber sie dienen nicht der Lokalisierung erhöhten Nutzeraufwandes. Mentale Modelle "entstehen" in den Köpfen der Menschen und sind deren strukturierte Vorstellungen von einem Gebilde und dessen Verhalten.
 
 ##### 3. Das 6-Ebenen-Modell dient zu Identifizierung erhöhnten interaktionsaufwands.
+Das 6-Ebenen-Modell eignet sich zur Feinddiagnose von Problemen.
+*http://www.schmiedecke.info/MCK/Folien/MCK-04-Handlungsprozesse.pdf*
+*Ich habe in keiner ihrer Folien das Wort Interaktionsaufwand gefunden!?!*
 
 ##### 4. Handlungsmodelle betrachten die Kluft der Ausführung, während mentale Modelle die Kluft der Evaluation untersuchen.
+**NEIN** Sowohl die Kluft der Ausführung(Gulf of Execution), als auch die Kluft der Evaluation(Gulf of Evaluation) sind Bestandteile des Modells der 7 Handlungsschritte.
+*http://www.schmiedecke.info/HCI/Folien/HCI-06-Handlungsmodelle.pdf*
 
 ##### 5. Physische Defizite der Benutzer führen zu erhöhten Transformationsdistanzen in den unteren Ebenen des 6-Ebenen-Modells.
+*JA* Bei motorischen Behinderungen der Benutzer ist vorwiegend die lexikalische(5.) und sensomotorische(6.) Ebene betroffen. Diese Nummerierung ist jedoch nicht als Reihenfolge zu verstehen. Die 6 Ebenen koexistieren.
+*http://www.schmiedecke.info/HCI/Folien/HCI-06-Handlungsmodelle.pdf S. 29*
 
 ##### 6. Auch innovative Interaktionsformen lassen sich zumeist auf die Interaktionsprimitiven Erzeugen, Selektieren, Bewegen, Kopieren, Manipulieren zurückführen.
 

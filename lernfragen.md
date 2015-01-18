@@ -28,8 +28,10 @@ Das 6-Ebenen-Modell eignet sich zur Feinddiagnose von Problemen.
 
 ##### 6. Auch innovative Interaktionsformen lassen sich zumeist auf die Interaktionsprimitiven Erzeugen, Selektieren, Bewegen, Kopieren, Manipulieren zurückführen.
 
-##### 7. Direkte Manipulation ist für Gelegenheitsbenutzer besonders geeignet, weil sie das KZG entlastet.
-
+##### 7. Direkte Manipulation ist für Gelegenheitsbenutzer besonders geeignet, weil sie das KZG entlastet.
+**NEIN** Sie entlastet das LZG durch Visualisierung und ist für das KZG eher belastend.
+*http://www.schmiedecke.info/HCI/Folien/HCI-08-Interaktionsparadigmen.pdf*
+**??????????**
 JA. Da der Benutzer gleich sehen kann was bei der Interaktion passiert, da sie sie das prozedurale Gedächtnis anspricht und somit leichter erlernbar ist.
 
 ##### 8. Schrift und feine Konturen sollten möglichst mehrfarbig dargestellt werden, um möglichst viel Sehzellen anzusprechen.
@@ -37,8 +39,10 @@ JA. Da der Benutzer gleich sehen kann was bei der Interaktion passiert, da sie s
 NEIN. Der Mensch kann Helligkeitsunterschiede besser wahrnehmen, als Farbunterschiede. Daher lieber mit Helligkeit arbeiten.
 
 ##### 9. Blendung entsteht durch Überforderung der Adaption des Auges.
+**NEIN** Blendung überfordert das Adaptionsvermögen. Sie entsteht durch Hell-Dunkel-Wechsel.
+*http://www.iaw.uni-bremen.de/ergo-time/augen/seiten/6bseh.htm*
 
-##### 10. Ein Entwurf, der aus mehr als 2 Farben besteht, überlastet das Auge.
+##### 10. Ein Entwurf, der aus mehr als 2 Farben besteht, überlastet das Auge.
 
 ##### 11. Jedes Benutzeroberfläche sollte auch nach Ausschaltung der Farbe benutzbar sein.
 

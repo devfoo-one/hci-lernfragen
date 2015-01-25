@@ -14,47 +14,52 @@ HCI Lernfragen
 **Nein**, Sie bilden zwar die Grundlage der Kognition und Interaktion, aber sie dienen nicht der Lokalisierung erhöhten Nutzeraufwandes. Mentale Modelle "entstehen" in den Köpfen der Menschen und sind deren strukturierte Vorstellungen von einem Gebilde und dessen Verhalten.
 
 ##### 3. Das 6-Ebenen-Modell dient zu Identifizierung erhöhnten interaktionsaufwands.
-Das 6-Ebenen-Modell eignet sich zur Feinddiagnose von Problemen.
-*http://www.schmiedecke.info/MCK/Folien/MCK-04-Handlungsprozesse.pdf*
-*Ich habe in keiner ihrer Folien das Wort Interaktionsaufwand gefunden!?!*
+
+Das 6-Ebenen-Modell eignet sich zur Feinddiagnose von Problemen.*http://www.schmiedecke.info/MCK/Folien/MCK-04-Handlungsprozesse.pdf**Ich habe in keiner ihrer Folien das Wort Interaktionsaufwand gefunden!?!*
 
 ##### 4. Handlungsmodelle betrachten die Kluft der Ausführung, während mentale Modelle die Kluft der Evaluation untersuchen.
-**NEIN** Sowohl die Kluft der Ausführung(Gulf of Execution), als auch die Kluft der Evaluation(Gulf of Evaluation) sind Bestandteile des Modells der 7 Handlungsschritte.
-*http://www.schmiedecke.info/HCI/Folien/HCI-06-Handlungsmodelle.pdf*
+
+**NEIN** Sowohl die Kluft der Ausführung(Gulf of Execution), als auch die Kluft der Evaluation(Gulf of Evaluation) sind Bestandteile des Modells der 7 Handlungsschritte.*http://www.schmiedecke.info/HCI/Folien/HCI-06-Handlungsmodelle.pdf*
 
 ##### 5. Physische Defizite der Benutzer führen zu erhöhten Transformationsdistanzen in den unteren Ebenen des 6-Ebenen-Modells.
-*JA* Bei motorischen Behinderungen der Benutzer ist vorwiegend die lexikalische(5.) und sensomotorische(6.) Ebene betroffen. Diese Nummerierung ist jedoch nicht als Reihenfolge zu verstehen. Die 6 Ebenen koexistieren.
-*http://www.schmiedecke.info/HCI/Folien/HCI-06-Handlungsmodelle.pdf S. 29*
+
+*JA* Bei motorischen Behinderungen der Benutzer ist vorwiegend die lexikalische(5.) und sensomotorische(6.) Ebene betroffen. Diese Nummerierung ist jedoch nicht als Reihenfolge zu verstehen. Die 6 Ebenen koexistieren.*http://www.schmiedecke.info/HCI/Folien/HCI-06-Handlungsmodelle.pdf S. 29*
 
 ##### 6. Auch innovative Interaktionsformen lassen sich zumeist auf die Interaktionsprimitiven Erzeugen, Selektieren, Bewegen, Kopieren, Manipulieren zurückführen.
 
 ##### 7. Direkte Manipulation ist für Gelegenheitsbenutzer besonders geeignet, weil sie das KZG entlastet.
-**NEIN** Sie entlastet das LZG durch Visualisierung und ist für das KZG eher belastend.
-*http://www.schmiedecke.info/HCI/Folien/HCI-08-Interaktionsparadigmen.pdf*
-**??????????**
-JA. Da der Benutzer gleich sehen kann was bei der Interaktion passiert, da sie sie das prozedurale Gedächtnis anspricht und somit leichter erlernbar ist.
+
+**NEIN** Sie entlastet das LZG durch Visualisierung und ist für das KZG eher belastend.*http://www.schmiedecke.info/HCI/Folien/HCI-08-Interaktionsparadigmen.pdf***??????????\** JA. Da der Benutzer gleich sehen kann was bei der Interaktion passiert, da sie sie das prozedurale Gedächtnis anspricht und somit leichter erlernbar ist.
 
 ##### 8. Schrift und feine Konturen sollten möglichst mehrfarbig dargestellt werden, um möglichst viel Sehzellen anzusprechen.
 
 NEIN. Der Mensch kann Helligkeitsunterschiede besser wahrnehmen, als Farbunterschiede. Daher lieber mit Helligkeit arbeiten.
 
 ##### 9. Blendung entsteht durch Überforderung der Adaption des Auges.
-**NEIN** Blendung überfordert das Adaptionsvermögen. Sie entsteht durch Hell-Dunkel-Wechsel.
-*http://www.iaw.uni-bremen.de/ergo-time/augen/seiten/6bseh.htm*
+
+**NEIN** Blendung überfordert das Adaptionsvermögen. Sie entsteht durch Hell-Dunkel-Wechsel.*http://www.iaw.uni-bremen.de/ergo-time/augen/seiten/6bseh.htm*
 
 ##### 10. Ein Entwurf, der aus mehr als 2 Farben besteht, überlastet das Auge.
 
+**NEIN.** Im Bezug auf Informationskodierung können bis zu 6 Farben eingesetzt werden. (Tom)
+
 ##### 11. Jedes Benutzeroberfläche sollte auch nach Ausschaltung der Farbe benutzbar sein.
+
+**JA.** Da Farbenblinde sonst eventuelle Informationskodierungen nicht wahrnehmen können (Tom)
 
 ##### 12. Die Barrierefreiheit einer Webseite kann man durch Ausschalten des CSS testen.
 
+**JA.** Allerdings nur zum Teil. Kriterien wie Linearisierbarkeit lassen sich dadurch testen, z.B. nicht aber die Qualität der WAI-ARIA Tags im Zusammenhang mit Screenreadern. (Tom)
+
 ##### 13. Anklickbare Strukturen dürfen beliebig fein sein, da Probleme mit der Handmotorik durch Anschalten von Zoom oder Bildschirmlupe überwunden werden können.
+
+**NEIN.** Die Benutzung von Bildschirmlupen und Zoom ist umständlich und zu vermeiden (Tom)
 
 ##### 14. "Mauskilometer" sind ein Fehler in der Interaktionsgestaltung, nicht im GUI-Entwurf.
 
 ##### 15. Personae sind künstliche Benutzer, die jeweils eine Benutzerklasse repräsentieren.
 
-RICHTIG. Es sind fiktive Benutzer, aber sie charakterisieren die erhobenen Daten einzelner Personen.
+**NEIN.** Personas repräsentieren Benutzerprofile, nicht Benutzerklassen.
 
 ##### 16. Benutzerprofile sind allgemeine, anwendungsübergreifend verwendbare Charakterisierungen von Computernutzern.
 

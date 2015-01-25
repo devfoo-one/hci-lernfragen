@@ -59,11 +59,15 @@ NEIN. Der Mensch kann Helligkeitsunterschiede besser wahrnehmen, als Farbuntersc
 
 ##### 14. "Mauskilometer" sind ein Fehler in der Interaktionsgestaltung, nicht im GUI-Entwurf.
 
+**NEIN.** "Mauskilometer" können sowohl durch ein falsches konzeptuelles Modell, wie auch durch umständliche GUI´s entstehen. (Tom)
+
 ##### 15. Personae sind künstliche Benutzer, die jeweils eine Benutzerklasse repräsentieren.
 
 **NEIN.** Personas repräsentieren Benutzerprofile, nicht Benutzerklassen.
 
 ##### 16. Benutzerprofile sind allgemeine, anwendungsübergreifend verwendbare Charakterisierungen von Computernutzern.
+
+**NEIN.** Benutzerprofile werden systemspezifisch erstellt und repräsentieren die Benutzer eines bestimmten Systems. (Tom)
 
 ##### 17. Gestaltgesetze beschreiben die bewusste Erkennung von Formen und Strukturen aufgrund ihrer räumlichen Anordnung.
 
@@ -73,7 +77,11 @@ NEIN. Der Mensch kann Helligkeitsunterschiede besser wahrnehmen, als Farbuntersc
 
 ##### 18. Mithilfe von Gestaltgesetzen lässt sich das KZG entlasten.
 
+**JA.** Durch Gestaltgesetze lassen sich z.B. Informationen gruppieren (Chunking). Das entlastet das KZG. (Tom)
+
 ##### 19. Affordanz reduziert das erforderliche Maß an Hilfetexten.
+
+**JA.** Wenn z.B. ein Datumsfeld das erwartete Datumsformat vorschlägt, dann ist keine weitere Hilfestellung dazu nötig. (Tom)
 
 ##### 20. Beim Informationsabruf aus dem KZG ist Wiedererkennen (Recognition) einfacher als der direkte Abruf (Recall).
 
@@ -86,6 +94,8 @@ NEIN. Das sensorische Gedächtnis kann 12 Chunks aufnehmen. Das KZG nimmt 7+/-2 
 NEIN. Das gilt für das KZG.
 
 ##### 23. Im LZG gespeicherte Information bleibt lebenslang erhalten.
+
+**JA.** Nur die Assoziationen darauf verblassen im Laufe der Zeit. (Tom)
 
 ##### 24. Unter Kognition verstehen wir die bewusste Informationsverarbeitung durch den Menschen.
 

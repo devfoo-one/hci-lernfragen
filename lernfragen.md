@@ -209,7 +209,13 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 56. Aufgabenangemessenheit erfordert, dass der Anteil externer Aufgaben in den Dialogen überwiegt
 
+**NEIN.** Aufgabenangemessenheit erfordert dass das System die zu bewältigende Aufgabe möglichst zeit- und wegsparend zu erledigen hilft.
+
 ##### 57. Das 6-Ebenen-Modell eignet sich besonders zum Aufzeigen von Missverständnissen .
+
+**NEIN.** Dafür wäre eher das Modell der 7 Handlungsschritte geeignet.
+
+> Tom: nicht sicher
 
 ##### 58. Ein PC, der nur als Textsystem benutzt wird, stellt eine Ressource dar.
 
@@ -219,11 +225,21 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 60. Orientierungshilfen in Hypermedia-Systemen und Navigationsunterstützung sind nur für ungeübte Benutzer erforderlich.
 
+*lt. ihrer Aussage in der Klausurvorbereitung stellt sie keine Fragen zu Hypermediasytemen*
+
 ##### 61. Direkt manipulative Systeme sind typischerweise benutzergesteuert
+
+**JA.**
+
+> Tom: DURCH WEN ZUR HÖLLE SONST????
 
 ##### 62. Die Fachbegriffe des B(D(A)) sind vom Entwickler geschaffene Systembegriffe, mit deren Hilfe der Benutzer das System verstehen soll.
 
 ##### 63. Menüs haben den Vorteil, dass die Information per Recognition aus dem Langzeitgedächtnis abgerufen werden kann.
+
+**NEIN.**
+
+> IS "sorry, falsch - das ist der größte Vorteil von Menüs, man muss die Befehle nicht kennen, sondern kann sie auswählen"
 
 ##### 64. Transformationsdistanzen sind ein Maß für den Benutzungskomfort eines Systems.
 
@@ -231,25 +247,45 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 65. Systeme, die für Gelegenheitsbenutzer konzipiert sind, sollten nicht individualisierbar sein.
 
+**NEIN.** Da Individualisierung eventuell ein aufwändiges Lernen der Anwendung unnötig machen könnte.
+
 ##### 66. Der Zugriff auf alte Informationen im Langzeitgedächtnis wird mit der Zeit schwieriger, weil die Information linear durchsucht werden muss.
 
 ##### 67. Fehlerrobustheit bedeutet, dass das System möglichst viele Eingabefehler ignoriert bzw. stillschweigend korrigiert.
 
+**NEIN.** Es bedeutet dass das System möglichst viele Hilfen anbietet Fehleingaben zu korrigieren bzw. das auch automatisch tut.
+
 ##### 68. Transformationsdistanzen in Handlungmodellen sind ein Maß dafür, wie schwer die Systemausgaben zu interpretieren ist.
+
+**NEIN.** Transformationsdistanzen sind ein Maß dafür, wie schwer der Übergang von einer Ebene eines Handlungsmodells zur anderen Ebene ist.
 
 ##### 69. Offener Text entsteht durch den Verzicht auf Blocksatz.
 
+**NEIN.** Offener Text entsteht durch Strukturierung in Textblöcken bzw. Kürze in Beschriftungen.
+
+> IS: "richtig - Textöffnung entsteht weniger duchr die Satzart als duch Hervorhebungen, absätze etc"
+
 ##### 70. Eine Heuristische Evaluation wird von HCI-Experten vorgenommen.
+
+**JA.** Die Fragen erfordern Expertenwissen.
 
 ##### 71. Winkel stellen eine 8-12-stufige Codierungsform dar.
 
+> Tom: "hmm... das ist jetzt die Frage... nach Ihren Quellen nur 8 Stufen für Winkel.. aber ne Armbanduhr hat ja auch 12..."
+
 ##### 72. Das Modell S(B(A)) beschreibt das Verständnis des Entwicklers vom Anwendungsbereich.
+
+**NEIN.** Es beschreibt die direkte Abbildung des Benutzerverständnisses auf das System. Bzw. ist die direkte Implementation des mentalen Modell des Benutzers in ein System.
 
 ##### 73. Je nach Raumbeleuchtung kann Schrift in Positiv- oder Negativdarstellung günstiger sein.
 
 ##### 74. Das Kurzzeitgedächtnis fasst ca. 7 Chunks, während die Kapazität des Langzeitgedächtnisses praktisch unbegrenzt ist.
 
 ##### 75. Direkt manipulative Systeme sind typischerweise stark systemgesteuert.
+
+**NEIN.**
+
+> IS: "der Benutzer hat die "Vorhand", steuert also initiativ den Dialog
 
 ##### 76. Barrierefreiheit bedeutet die Benutzbarkeit von Systemschnittstellen durch blinde Nutzer.
 

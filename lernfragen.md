@@ -289,11 +289,17 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 76. Barrierefreiheit bedeutet die Benutzbarkeit von Systemschnittstellen durch blinde Nutzer.
 
+**NEIN.** Barrierefreiheit schließt auch weitere Benutzungsbarrieren wie z.B. Farbenblindheit oder Gehörlosigkeit mit ein.
+
 ##### 77. Minimalistisches Design erfordert den vollständigen Verzicht auf Dekoration.
 
 ##### 78. Lernförderlichkeit erfordert, dass das System mindestens ein Einführungstutorial anbietet.
 
+**NEIN.** Es muss nicht zwingend ein Tutorial sein. Oft reichen auch Tooltips bzw. kontextabhängige Hilfen.
+
 ##### 79. Ein gutes Hilfesystem ist eine unerlässliche Bedingung für selbstbeschreibungfähige Systeme.
+
+**NEIN.** Selbstbeschreibungsfähigkeit kann auch durch intuitiv verstehbare Oberflächen geschaffen werden.
 
 ##### 80. Körperbehinderungen verursachen erhöhte Transformationsdistanzen in den unteren Ebenen des 6- Ebenen-Modells.
 

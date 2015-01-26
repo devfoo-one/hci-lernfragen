@@ -121,9 +121,15 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 33. Ohne Vergleich kann der Mensch 6-8 Winkel unterscheiden.
 
+**JA.** bzw. sogar manchmal noch mehr, siehe Ziffernblatt.
+
 ##### 34. Aufgabenangemessenheit bedeutet, dass die Bedienung des Systems in den Vordergrund tritt.
 
+**NEIN.** Aufgabenangemessenheit bedeutet dass das System den Benutzer darin unterstützt, seine Aufgabe effizient und effektiv zu erledigen. Die Bedienung tritt hierbei in den Hintergrund.
+
 ##### 35. Ein System ohne Hilfesystem kann nicht selbstbeschreibungsfähig sein.
+
+**NEIN.** Bei einfachen Systemen reichen eventuell gut beschriftete Icons oder Tooltips aus.
 
 ##### 36. Internationalisierung ermöglicht eine Individualisierung der Benutzerschnittstelle.
 
@@ -131,15 +137,27 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 38. Fehlertoleranz macht Systeme unsicher, da falsche Eingabe akzeptiert werden.
 
+**NEIN.** Fehlertoleranz unterstützt die Benutzer bei der Eingabe von korrekten Daten in dem es diese mit keinem oder minimalem Aufwand korrigieren lässt.
+
 ##### 39. Sicherheitsrelevante Systeme dürfen nicht individualisierbar sein.
 
 **JA.** z.B. die Benutzerschnittstelle in einem Kernkraftwerk muss permanent von allen geschulten Mitarbeitern bedient werden können, und nicht nur vom entsprechenden Mitarbeiter der es seinen Bedürfnissen angepasst hat.
 
 ##### 40. Lernförderlichkeit ist besonders für Gelegenheitsbenutzer wichtig.
 
+**NEIN.** Wichtiger ist es eher für ungeübte Benutzer, da diese das System wahrscheinlich öfter benötigen werden.
+
 ##### 41. Lernförderlichkeit ist nur für ungeübte Benutzer von Interesse.
 
+**NEIN.** z.B. können Routinebenutzer auch noch neue und effektivere Benutzungswege durch z.B. guided tours durch die Software erhalten.
+
 ##### 42. Die Evaluation einer Benutzerschnittstelle sollte immer mit realen Benutzern durchgeführt werden.
+
+**NEIN.** Reale Benutzer sind wichtig, aber es bietet sich auch Expertenevaluation an. Diese können eine Evaluation ergänzen.
+
+**JA.** Reale Benutzer sollten immer in der Evaluation berücksichtigt werden.
+
+> *Tom: unsicher, aber geht warscheinlich beides, je nachdem wie man ihre Frage interpretiert*
 
 ##### 43. Feldstudien sind Labortests grundsätzlich vorzuziehen.
 

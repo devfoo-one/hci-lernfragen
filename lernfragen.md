@@ -165,23 +165,41 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 
 ##### 44. Menschengerechte Bildschirmarbeit nach ISO 9241-Teil 2 kann durch ein einzelnes Anwendungsprogramm unterstützt, aber nicht gewährleistet werden.
 
+**JA.** Die Anwendung kann das Ziel der menschengerechten Arbeit unterstützen, aber das Arbeitsumfeld, wie z.B. Entwicklungsmöglichkeiten... spielt ebenfalls eine große Rolle.
+
 ##### 45. Die Interaktionsschnittstelle eines einzelnen Anwendungsprogramms kann den Humankriterien nach ISO 9241-Teil 2 widersprechen.
+
+**JA.** z.B. können Handlungsspielräume derart eingeschränkt werden (z.B. Bearbeitungszeit) so dass es gegen die Humankriterien verstößt.
 
 ##### 46. Menü/Maskensysteme stellen ein sehr häufiges Kommunikationsparadigma dar.
 
+**NEIN.** Menü/Maskensysteme sind ein Interaktionsparadigma.
+
 ##### 47. Sprachein- und ausgabe erfordert neuartige Interaktionsparadigmen.
+
+**NEIN.** Sprachein- und ausgabe sind z.B. auch in Menü/Maskensystemen möglich.
 
 ##### 48. Die Fachbegriffe des B(A) sind die Fachbegriffe der Anwendungswelt.
 
+**NEIN.** B(A) beschreibt die Sicht des Arbeitsbereich des Benutzers / Experten.
+
 ##### 49. Das Kurzzeitgedächtnis wird bei Überlastung fehleranfällig und sollte deshalb nicht mit vermeidbarer Information belastet werden.
+
+**JA.** Das KZG kann nur 5-9 Informationschunks speichern und wird bei Informationsflut fehleranfällig.
 
 ##### 50. Optische Täuschungen sind ein Hinweis darauf, dass man Gestaltgesetze auch manipulativ einsetzen kann.
 
 ##### 51. Systeme nach dem Konversationsmodell sind für Routinebenutzer ungeeignet.
 
+*Fragen nach dem Konversationsmodell sollen lt. Ihr nicht vorkommen, da diese veraltet sind.*
+
 ##### 52. Die Schriftgröße ist eine sehr wirkungsvolle Codierungsform. Der Benutzer unterscheidet bis zu 10 Größen-Stufen.
 
+**NEIN.** Es sollten nicht mehr als 3 Schriftgrößen zur Informationscodierung eingesetzt werden.
+
 ##### 53. Bei der augenfreundlichen Gestaltung von Dialogen muss man berücksichtigen, dass der Bildschirm auch als Lichtquelle wirkt.
+
+**JA.** z.B. können schnelle Hell/Dunkel Wechsel oder hohe Kontraste die Adaptionsfähigkeit des Auges überlasten.
 
 ##### 54. Der Weg ins Langzeitgedächtnis führt über das Kurzzeitgedächtnis, deshalb sollte dies viel beansprucht werden.
 
@@ -196,6 +214,8 @@ NEIN. Kongnition bedeutet menschliche Informationsverarbeitung.
 ##### 58. Ein PC, der nur als Textsystem benutzt wird, stellt eine Ressource dar.
 
 ##### 59. Systeme nach dem Konversationsmodell sind für Gelegenheitsbenutzer ungeeignet.
+
+*Fragen nach dem Konversationsmodell sollen lt. Ihr nicht vorkommen, da diese veraltet sind.*
 
 ##### 60. Orientierungshilfen in Hypermedia-Systemen und Navigationsunterstützung sind nur für ungeübte Benutzer erforderlich.
 
